@@ -1,0 +1,1 @@
+export const NUMBER_JOBS_PER_PAGE = 8
